@@ -1,0 +1,22 @@
+{
+  "name": "node-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shorturlserver.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.6",
+    "nanoid": "^3.1.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node."
+  },
+  "author": "",
+  "license": "ISC"
+}
